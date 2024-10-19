@@ -135,7 +135,7 @@ function countDigits(num) {
     return num.toString().length;
 }
 
-
+//Testing
 console.log(countDigits(123));    
 console.log(countDigits(2));      
 console.log(countDigits(42693));  
